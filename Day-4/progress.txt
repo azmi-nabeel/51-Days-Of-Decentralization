@@ -1,0 +1,4 @@
+https://rejolut.com/blog/hashing-in-blockchain/#:~:text=In%20summary%2C%20hashing%20is%20a,making%20blockchains%20immutable%20and%20secure.
+https://metaschool.so/articles/hashing-in-blockchain/
+
+Read the following articles on hashing for block chain
